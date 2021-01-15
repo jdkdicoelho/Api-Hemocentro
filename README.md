@@ -1,5 +1,16 @@
 # Api-Hemocentro
-API REST no Docker
+Projeto final para a disciplina de Containers and Virtualizations.
+
+##  Pré-requisitos para execução do projeto
+- Tecnologias necessárias.
+
+  1- Para executar os projetos é necessário ter instalado Java SE Development Kit versão 11.
+  
+  2- Utilizar uma IDE para execução dos projetos de API desenvolvida em Java. Ex. IntelliJ ou Eclipse.
+  
+  3- Docker
+  
+  ---
 
 docker-compose up -d
 
