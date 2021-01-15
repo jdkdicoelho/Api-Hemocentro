@@ -1,11 +1,13 @@
-FROM openjdk
+#CONTEÚDO DO Dockerfile
+FROM maven:3.6.3-jdk-11-slim
+
+COPY . /usr/src/myapp
+WORKDIR /usr/src/myapp	
+
+RUN cd /usr/src/myapp
+RUN mvn package
 
 
-WORKDIR /app
+CMD java -jar ./target/ApiBancoDeSangue-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 
-COPY target/ApiBancoDeSangue-0.0.1-SNAPSHOT-jar-with-dependencies.jar /app/ApiBancoDeSangue-0.0.1-SNAPSHOT-jar-with-dependencies.jar
-
-EXPOSE 3000
-EXPOSE 8081
-
-ENTRYPOINT ["java", "-jar", "ApiBancoDeSangue-0.0.1-SNAPSHOT-jar-with-dependencies.jar"]
+EXPOSE 8080 
