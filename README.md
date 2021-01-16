@@ -27,7 +27,7 @@ Baixar o projeto: `$ git clone https://github.com/igor-fga/Api-Hemocentro.git`
 
   3- Aguardar o termino do build e o iniciar dos containers.
   
-  4- Importar a collection (Api Hemocentro.postman_collection.json) postman disponível na pasta **Api**
+  4- Importar a collection **Api Hemocentro.postman_collection.json** postman disponível na pasta **Api**.
   
   5- Executar a requisições do Postman para o CRUD de doadores e bancos de sangue.
 
