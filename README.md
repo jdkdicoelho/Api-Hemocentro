@@ -42,6 +42,8 @@ Baixar o projeto: `$ git clone https://github.com/igor-fga/Api-Hemocentro.git`
 ## Endereço da imagem da API no Docker Hub
 
   - https://hub.docker.com/r/teixeira308/apihemocentro
+  
+---
 
 ## Video com a demonstração do projeto
 
