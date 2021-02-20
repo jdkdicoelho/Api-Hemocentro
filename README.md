@@ -15,7 +15,7 @@ Essa API Rest tem como objetivo um CRUD para doadores e hemocentros.
  
 ## Download do projeto
 
-Baixar o projeto: `$ git clone https://github.com/igor-fga/Api-Hemocentro.git`
+Baixar o projeto: https://github.com/jdkdicoelho/Api-Hemocentro.git
 
 ---
 
@@ -47,5 +47,4 @@ Baixar o projeto: `$ git clone https://github.com/igor-fga/Api-Hemocentro.git`
 
 ## Video com a demonstração do projeto
 
-  - https://www.loom.com/share/72bda83388ad4360b40079cbce7ebea5
-
+ 
