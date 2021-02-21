@@ -41,10 +41,12 @@ Baixar o projeto: https://github.com/jdkdicoelho/Api-Hemocentro.git
 
 ## Endereço da imagem da API no Docker Hub
 
-  - https://hub.docker.com/r/teixeira308/apihemocentro
+  - https://hub.docker.com/repository/docker/diegocoelho/apihemo
   
 ---
 
 ## Video com a demonstração do projeto
+
+https://youtu.be/NopX8lpx0Fg
 
  
